@@ -1,0 +1,35 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Table {
+  position: absolute;
+  width: 1000px;
+  height: 225px;
+  left: 250px;
+  top: 428px;
+  
+  background: #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.Menu{
+  position: absolute;
+width: 1000px;
+height: 155px;
+left: 250px;
+top: 238px;
+align-items: center;
+background: #FFFFFF;
+box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.25);
+}
+.add{
+  position: absolute;
+width: 55px;
+height: 28px;
+left: 925px;
+top: 255px;
+color: #FFFFFF;
+background: #1E5F74;
+border-radius: 8px;
+}
